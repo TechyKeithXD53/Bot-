@@ -323,4 +323,4 @@ client.on('message', (message) => {
     }
 })
 
-client.login("OTAyMDE4ODc3NzU0NTk3Mzc2.YXYUiw.ipsRnvAzWvRgdPBTfCq_RQsuQSI")
+client.login("...")
